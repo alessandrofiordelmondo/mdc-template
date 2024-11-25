@@ -31,3 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula nisl
 <img src="images/photo2.png" alt="image of the artwork" height="200"> <img src="images/photo3.png" alt="image of the artwork" height="200"> 
 
 </details>
+
+[View Past Commit](commit/255c12bfb5746cbc1978f076ae05f1f10b72bb51)
+
+
