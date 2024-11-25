@@ -28,6 +28,7 @@ Technical description, notes and information of the general artworks if needed
 Technical Notes with pictures
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula nisl nec magna vehicula, a dictum odio elementum. Proin tincidunt eros vel metus varius, eget gravida nunc porttitor. Curabitur non ultrices neque. Ut nec justo a nulla fermentum efficitur. Donec porttitor, tortor eget interdum tempor, velit eros convallis risus, sit amet facilisis est lectus id justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer at justo felis.
 
+### Documentation (*Experience*)
 <img src="images/photo2.png" alt="image of the artwork" height="200"> <img src="images/photo3.png" alt="image of the artwork" height="200"> 
 
 </details>
@@ -59,6 +60,8 @@ Technical description, notes and information of the general artworks if needed
 ### Technical note, mappings and instructions (*data*)
 Technical Notes with pictures
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula nisl nec magna vehicula, a dictum odio elementum. Proin tincidunt eros vel metus varius, eget gravida nunc porttitor. Curabitur non ultrices neque. Ut nec justo a nulla fermentum efficitur. Donec porttitor, tortor eget interdum tempor, velit eros convallis risus, sit amet facilisis est lectus id justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer at justo felis.
+
+### Documentation (*Experience*)
 
 </details>
 
