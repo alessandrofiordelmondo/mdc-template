@@ -32,6 +32,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula nisl
 
 </details>
 
-[View Past Commit](commit/255c12bfb5746cbc1978f076ae05f1f10b72bb51)
+[View Past Commit](https://github.com/alessandrofiordelmondo/mdc-template/commit/255c12bfb5746cbc1978f076ae05f1f10b72bb51)
 
 
