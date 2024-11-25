@@ -20,7 +20,7 @@ Technical description, notes and information of the general artworks if needed
 |---|----|----|---|---|---|
 | hardware | **FakeArm** | 2 | [ext link]() | | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. |
 | computer system | **Raspberry PI** | 5 | [ext link]() | | |
-| firmware | **fakeArmFirmare** | 2 | [repo link](archive/fakeArmFirmware) | | [Python 3.12](link) </br> [pyrobotic library](link) </br> [others](link) | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. |
+| firmware | **fakeArmFirmare** | 2 | [repo link](fakeArmFirmware) | | [Python 3.12](link) </br> [pyrobotic library](link) </br> [others](link) | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. |
 | operating system | **Ubuntu** | 24.10 | [ext link]() | |
 | ... | ... | ... | ... | ... |
 
